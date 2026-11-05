@@ -1,2 +1,3 @@
 # collabo-c
-collabo-c 연습
+collabo-b 연습
+재훈
